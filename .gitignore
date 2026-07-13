@@ -1,0 +1,6 @@
+# Binwalk / extraction artifacts — never commit these
+*.extracted/
+*_extracted/
+
+# Anything accidentally huge
+*.dump
