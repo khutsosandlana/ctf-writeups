@@ -1,0 +1,25 @@
+{
+activity: {
+_disambiguationId: null,
+activityStatus: "DISCARDED_NON_DEVICE_DIRECTED_INTENT",
+creationTimestamp: 1500269464601,
+description: "{"summary":"","firstUtteranceId":"AB72C64C86AW2:1.0/2017/07/17/05/B0F00715535302W5/31:03::TNIH_2V.bfd79fb1-e87b-4c5d-af63-918318f45f25ZXV","firstStreamId":"AB72C64C86AW2:1.0/2017/07/17/05/B0F00715535302W5/31:03::TNIH_2V.bfd79fb1-e87b-4c5d-af63-918318f45f25ZXV"}",
+domainAttributes: null,
+domainType: null,
+feedbackAttributes: null,
+id: "A32TRBM6QOXJ5H#1500269464601#AB72C64C86AW2#B0F00715535302W5",
+intentType: null,
+providerInfoDescription: null,
+registeredCustomerId: "A32TRBM6QOXJ5H",
+sourceActiveUsers: null,
+sourceDeviceIds: [
+{
+deviceAccountId: null,
+deviceType: "AB72C64C86AW2",
+serialNumber: "B0F00715535302W5"
+}
+],
+utteranceId: "AB72C64C86AW2:1.0/2017/07/17/05/B0F00715535302W5/31:03::TNIH_2V.bfd79fb1-e87b-4c5d-af63-918318f45f25ZXV",
+version: 1
+}
+}

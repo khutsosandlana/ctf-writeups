@@ -1,0 +1,25 @@
+{
+activity: {
+_disambiguationId: null,
+activityStatus: "SUCCESS",
+creationTimestamp: 1500270331742,
+description: "{"summary":"wake up","firstUtteranceId":"AB72C64C86AW2:1.0/2017/07/17/05/B0F00715535302W5/45:28::TNIH_2V.0d0117fc-800c-43e5-a052-37537e28de10ZXV/1","firstStreamId":"AB72C64C86AW2:1.0/2017/07/17/05/B0F00715535302W5/45:28::TNIH_2V.0d0117fc-800c-43e5-a052-37537e28de10ZXV"}",
+domainAttributes: "{"disambiguated":false,"nBestList":[{"entryType":"Knowledge","mainEntity":{"tkid":"[fake editorial entity]","properties":{"background-color":"#489694","suppress-card":"false","background":"CustomizeColor"}},"answerText":"Good Morning! I've got some sweet news for you. Today is National Ice Cream Day. But you might want to pick up some ear plugs. If we all scream for ice cream at the same time, things are gonna get noisy!","answered":true,"validForGUI":true,"domains":["[editorial response]","[phatic domain]","[background-color: #489694]"],"answerEntities":[{"tkid":"[fake editorial entity]","properties":{"background-color":"#489694","suppress-card":"false","background":"CustomizeColor"}}],"questionText":"Wake up","spokenAnswerSsml":"<speak><prosody volume=\"x-loud\"><p xmlns:ivona=\"http://www.ivona.com/2009/12/ssml\">Good Morning! I've got some sweet news for you. Today is National Ice Cream Day. But you might want to pick up some ear plugs. If we all scream for ice cream at the same time, things are gonna get noisy!<\/p><\/prosody><metadata><promptMetadata><promptId>AnswerSsml<\/promptId><namespace>SmartDJ.MusicQA<\/namespace><locale>en_US<\/locale><overrideId>default<\/overrideId><variant>809dfcd2-2807-4eaf-93e9-1130c2db01fa<\/variant><condition/><weight>1<\/weight><stageVersion>Adm-20141203_202706-183<\/stageVersion><promptData><namespace>SmartDJ.MusicQA<\/namespace><overrideId/><prosodyPreRenderHook/><answer>&lt;p xmlns:ivona=\"http://www.ivona.com/2009/12/ssml\"&gt;Good Morning! I've got some sweet news for you. Today is National Ice Cream Day. But you might want to pick up some ear plugs. If we all scream for ice cream at the same time, things are gonna get noisy!&lt;/p&gt;<\/answer><promptID>AnswerSsml<\/promptID><\/promptData><\/promptMetadata><\/metadata><\/speak>","searchQueryText":"wake up","spokenAnswerText":"Good Morning! I've got some sweet news for you. Today is National Ice Cream Day. But you might want to pick up some ear plugs. If we all scream for ice cream at the same time, things are gonna get noisy!","understood":true,"answerListIntroductionText":"Good Morning! I've got some sweet news for you. Today is National Ice Cream Day. But you might want to pick up some ear plugs. If we all scream for ice cream at the same time, things are gonna get noisy!"}]}",
+domainType: null,
+feedbackAttributes: null,
+id: "A32TRBM6QOXJ5H#1500270331742#AB72C64C86AW2#B0F00715535302W5",
+intentType: null,
+providerInfoDescription: null,
+registeredCustomerId: "A32TRBM6QOXJ5H",
+sourceActiveUsers: null,
+sourceDeviceIds: [
+{
+deviceAccountId: null,
+deviceType: "AB72C64C86AW2",
+serialNumber: "B0F00715535302W5"
+}
+],
+utteranceId: "AB72C64C86AW2:1.0/2017/07/17/05/B0F00715535302W5/45:28::TNIH_2V.0d0117fc-800c-43e5-a052-37537e28de10ZXV",
+version: 1
+}
+}

@@ -1,0 +1,25 @@
+{
+activity: {
+_disambiguationId: null,
+activityStatus: "SUCCESS",
+creationTimestamp: 1500271959818,
+description: "{"summary":"alexa how could you do this what are the flooding","firstUtteranceId":"AB72C64C86AW2:1.0/2017/07/17/06/B0F00715535302W5/12:36::TNIH_2V.91ba6538-f8c8-4922-8a1f-8473a8a24c0cZXV/0","firstStreamId":"AB72C64C86AW2:1.0/2017/07/17/06/B0F00715535302W5/12:36::TNIH_2V.91ba6538-f8c8-4922-8a1f-8473a8a24c0cZXV"}",
+domainAttributes: "{"disambiguated":false,"nBestList":[{"spokenAnswerSsml":"<speak><prosody volume=\"x-loud\">Hmm, I don&apos;t know that one.<\/prosody><metadata><promptMetadata><promptId>NotUnderstood<\/promptId><namespace>SmartDJ.MusicQA<\/namespace><locale>en_US<\/locale><overrideId>default<\/overrideId><variant>2017_Variant 6<\/variant><condition/><weight>1<\/weight><stageVersion>Adm-20170501_190432-15<\/stageVersion><promptData><namespace>SmartDJ.MusicQA<\/namespace><overrideId/><prosodyPreRenderHook/><promptID>NotUnderstood<\/promptID><\/promptData><\/promptMetadata><\/metadata><\/speak>","entryType":"Knowledge","answerText":"Sorry, I couldn't find the answer to your question.","answered":false,"searchQueryText":"what are the flooding","validForGUI":true,"domains":[],"spokenAnswerText":"Hmm, I don't know that one.","understood":false,"questionText":"What are the flooding?"}]}",
+domainType: null,
+feedbackAttributes: null,
+id: "A32TRBM6QOXJ5H#1500271959818#AB72C64C86AW2#B0F00715535302W5",
+intentType: null,
+providerInfoDescription: null,
+registeredCustomerId: "A32TRBM6QOXJ5H",
+sourceActiveUsers: null,
+sourceDeviceIds: [
+{
+deviceAccountId: null,
+deviceType: "AB72C64C86AW2",
+serialNumber: "B0F00715535302W5"
+}
+],
+utteranceId: "AB72C64C86AW2:1.0/2017/07/17/06/B0F00715535302W5/12:36::TNIH_2V.91ba6538-f8c8-4922-8a1f-8473a8a24c0cZXV",
+version: 1
+}
+}

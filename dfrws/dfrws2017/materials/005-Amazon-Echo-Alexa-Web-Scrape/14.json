@@ -1,0 +1,25 @@
+{
+activity: {
+_disambiguationId: null,
+activityStatus: "INVALID",
+creationTimestamp: 1500260255079,
+description: "{"summary":"alexa kinda patton a.m. next monday","firstUtteranceId":"AB72C64C86AW2:1.0/2017/07/17/02/B0F00715535302W5/57:32::TNIH_2V.fed4d433-4d62-4ada-98f2-a8c1d7f254f8ZXV/0","firstStreamId":"AB72C64C86AW2:1.0/2017/07/17/02/B0F00715535302W5/57:32::TNIH_2V.fed4d433-4d62-4ada-98f2-a8c1d7f254f8ZXV"}",
+domainAttributes: null,
+domainType: null,
+feedbackAttributes: null,
+id: "A32TRBM6QOXJ5H#1500260255079#AB72C64C86AW2#B0F00715535302W5",
+intentType: null,
+providerInfoDescription: null,
+registeredCustomerId: "A32TRBM6QOXJ5H",
+sourceActiveUsers: null,
+sourceDeviceIds: [
+{
+deviceAccountId: null,
+deviceType: "AB72C64C86AW2",
+serialNumber: "B0F00715535302W5"
+}
+],
+utteranceId: "AB72C64C86AW2:1.0/2017/07/17/02/B0F00715535302W5/57:32::TNIH_2V.fed4d433-4d62-4ada-98f2-a8c1d7f254f8ZXV",
+version: 1
+}
+}
